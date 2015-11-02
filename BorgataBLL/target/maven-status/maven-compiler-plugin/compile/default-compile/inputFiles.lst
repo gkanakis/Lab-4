@@ -1,0 +1,13 @@
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerBase/Hand.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerBase/GamePlayPlayerHand.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerBase/Player.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerBase/Table.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerEnums/eRank.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerBase/Rule.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerEnums/eSuit.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerEnums/eHandStrength.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerEnums/eCardNo.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerBase/Card.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerBase/Deck.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerBase/GamePlay.java
+/Users/George/git/BorgataNTier/BorgataBLL/src/main/java/pokerEnums/eGame.java
